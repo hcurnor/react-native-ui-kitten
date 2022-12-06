@@ -45,7 +45,7 @@
     "@angular/compiler-cli": "8.0.0",
     "@angular/language-service": "8.0.0",
     "@schematics/angular": "^8.0.0",
-    "angular-cli-ghpages": "0.5.0",
+    "angular-cli-ghpages": "1.0.5",
     "docsearch.js": "^2.5.2",
     "codelyzer": "^5.0.1",
     "protractor": "^5.3.2",
